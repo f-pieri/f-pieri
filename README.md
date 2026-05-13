@@ -1,17 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Franco%20Pieri&fontSize=60&fontAlignY=35&desc=Creative+Technologist+%7C+ML+Enthusiast&descAlignY=60&descAlign=center&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Franco%20Pieri&fontSize=60&fontAlignY=55&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Creative+Technologist;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=4000&pause=1000&color=DAA0F6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+and+Web+Enthusiast;Always+Building+and+Learning"
-    alt="Typing SVG"
-  />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=f-pieri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
