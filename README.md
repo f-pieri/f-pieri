@@ -39,7 +39,7 @@
       <br />GitHub
     </td>
     <td align="center" width="96">
-      <img src="./assets/gerrit.svg" width="45" height="45" alt="Gerrit" />
+      <img src="./assets/gerrit.svg" width="45" height="45" alt="Gerrit" style="filter: invert(1);" />
       <br />Gerrit
     </td>
     <td align="center" width="96">
@@ -61,6 +61,10 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
       <br />PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/matlab.svg" width="45" height="45" alt="MATLAB" />
+      <br />MATLAB
     </td>
   </tr>
 </table>
