@@ -21,9 +21,9 @@
 </p>
 
 
-<br>
+---
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -68,7 +68,7 @@
 
 ---
 
-## My Contributions
+<h2>My Contributions</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f-pieri/f-pieri/output/github-contribution-grid-snake-dark.svg">
