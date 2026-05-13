@@ -14,14 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zha0090">
-    <img src="https://img.shields.io/github/followers/zha0090?label=Followers&style=for-the-badge&color=%2326A5E0" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/zha0090?tab=repositories">
+<a href="https://github.com/zha0090?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
   <a href="https://github.com/zha0090">
-    <img src="https://komarev.com/ghpvc/?username=zha0090&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=f-pieri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
 
