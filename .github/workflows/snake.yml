@@ -14,8 +14,8 @@ jobs:
           github_user_name: f-pieri
           github_token: ${{ secrets.GH_TOKEN }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2360a5fa&color_dots=%230369a1,%230ea5e9,%2338bdf8,%237dd3fc,%23bae6fd
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2360a5fa&color_dots=%230369a1,%230ea5e9,%2338bdf8,%237dd3fc,%23bae6fd
+            dist/github-contribution-grid-snake.svg?color_snake=%2360a5fa
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2360a5fa
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
