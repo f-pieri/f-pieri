@@ -39,7 +39,7 @@
       <br />GitHub
     </td>
     <td align="center" width="96">
-      <img src="./assets/gerrit.svg" width="45" height="45" alt="Gerrit" style="filter: invert(1);" />
+      <img src="./assets/gerrit.png" width="45" height="45" alt="Gerrit" />
       <br />Gerrit
     </td>
     <td align="center" width="96">
