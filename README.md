@@ -29,11 +29,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,java,cpp,python,ts&theme=dark" alt="Core skills" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="AI/ML skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,java,cpp,python,ts,pytorch&theme=dark" alt="Core skills" />
 </p>
 
 <table align="center">
@@ -47,7 +43,7 @@
       <br />GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://www.gerritcodereview.com/images/gerrit_icon.svg" width="45" height="45" alt="Gerrit" />
+      <img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=black&labelColor=EEEEEE" height="45" alt="Gerrit" />
       <br />Gerrit
     </td>
     <td align="center" width="96">
@@ -62,8 +58,6 @@
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
       <br />Java
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++" />
       <br />C++
@@ -71,18 +65,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
       <br />PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel" />
-      <br />Excel
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/96/sharepoint-2019--v1.png" width="45" height="45" alt="SharePoint" />
-      <br />SharePoint
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/96/microsoft-365.png" width="45" height="45" alt="MS365" />
-      <br />MS 365
     </td>
   </tr>
 </table>
