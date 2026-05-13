@@ -1,10 +1,6 @@
-<p align="center">
-  <img
-    width="98%"
-    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Dream%20Builder&reversal=false&section=header&animation=twinkling"
-    alt="Dream Builder"
-  />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Franco%20Pieri&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=center&fontColor=ffffff" alt="Header Banner" />
+</div>
 
 <p align="center">
   <img
@@ -68,7 +64,7 @@
 
 ---
 
-<h2>My Contributions</h2>
+<h3>My Contributions</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f-pieri/f-pieri/output/github-contribution-grid-snake-dark.svg">
