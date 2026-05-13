@@ -1,0 +1,87 @@
+<svg width="100%" viewBox="0 0 680 160" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Footer</title>
+  <desc>Animated starfield with floating geometric shapes and a glowing blue centerline</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0d1a"/>
+      <stop offset="50%" stop-color="#0a1228"/>
+      <stop offset="100%" stop-color="#0a0d1a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0d1a" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#60a5fa"/>
+      <stop offset="70%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#0a0d1a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .star{fill:#ffffff}
+      @keyframes twinkle1{0%,100%{opacity:.2}50%{opacity:1}}
+      @keyframes twinkle2{0%,100%{opacity:.8}50%{opacity:.1}}
+      @keyframes twinkle3{0%,100%{opacity:.5}60%{opacity:.9}}
+      @keyframes floatA{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-8px) rotate(180deg)}}
+      @keyframes floatB{0%,100%{transform:translateY(0) rotate(45deg)}50%{transform:translateY(-6px) rotate(225deg)}}
+      @keyframes floatC{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-10px) rotate(120deg)}}
+      @keyframes sweep{0%{transform:translateX(-120px)}100%{transform:translateX(800px)}}
+      @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+      .s1{animation:twinkle1 2.1s infinite}.s2{animation:twinkle2 3.4s infinite}.s3{animation:twinkle3 1.8s infinite}
+      .s4{animation:twinkle1 4.2s infinite}.s5{animation:twinkle2 2.7s infinite}.s6{animation:twinkle3 3.1s infinite}
+      .fa{animation:floatA 4s ease-in-out infinite}
+      .fb{animation:floatB 5s ease-in-out infinite}
+      .fc{animation:floatC 6s ease-in-out infinite}
+      .sweep{animation:sweep 4s linear infinite}
+      .glow{animation:pulse 2.5s ease-in-out infinite}
+    </style>
+  </defs>
+
+  <rect width="680" height="160" fill="url(#bg)"/>
+
+  <circle class="star s1" cx="40" cy="30" r="1.2"/>
+  <circle class="star s2" cx="90" cy="55" r="0.8"/>
+  <circle class="star s3" cx="150" cy="20" r="1.5"/>
+  <circle class="star s4" cx="200" cy="70" r="0.9"/>
+  <circle class="star s5" cx="260" cy="35" r="1.1"/>
+  <circle class="star s6" cx="310" cy="15" r="0.7"/>
+  <circle class="star s1" cx="370" cy="50" r="1.3"/>
+  <circle class="star s2" cx="420" cy="25" r="0.8"/>
+  <circle class="star s3" cx="480" cy="65" r="1.0"/>
+  <circle class="star s4" cx="530" cy="30" r="1.4"/>
+  <circle class="star s5" cx="590" cy="45" r="0.9"/>
+  <circle class="star s6" cx="640" cy="18" r="1.2"/>
+  <circle class="star s2" cx="70" cy="110" r="0.8"/>
+  <circle class="star s3" cx="180" cy="130" r="1.1"/>
+  <circle class="star s1" cx="350" cy="120" r="0.7"/>
+  <circle class="star s4" cx="500" cy="135" r="1.0"/>
+  <circle class="star s5" cx="620" cy="115" r="0.9"/>
+  <circle class="star s6" cx="120" cy="90" r="0.6"/>
+  <circle class="star s1" cx="450" cy="95" r="1.2"/>
+  <circle class="star s3" cx="560" cy="85" r="0.8"/>
+
+  <g class="fa" style="transform-origin:100px 80px">
+    <polygon points="100,60 115,88 85,88" fill="none" stroke="#60a5fa" stroke-width="1" opacity="0.55"/>
+  </g>
+  <g class="fb" style="transform-origin:580px 75px">
+    <rect x="570" y="65" width="20" height="20" fill="none" stroke="#38bdf8" stroke-width="1" opacity="0.5"/>
+  </g>
+  <g class="fc" style="transform-origin:340px 40px">
+    <polygon points="340,26 352,50 328,50" fill="none" stroke="#93c5fd" stroke-width="1" opacity="0.35"/>
+  </g>
+  <g class="fa" style="transform-origin:220px 110px">
+    <rect x="212" y="102" width="16" height="16" fill="none" stroke="#7dd3fc" stroke-width="1" opacity="0.4" transform="rotate(45 220 110)"/>
+  </g>
+  <g class="fb" style="transform-origin:470px 115px">
+    <polygon points="470,103 480,123 460,123" fill="none" stroke="#60a5fa" stroke-width="1" opacity="0.3"/>
+  </g>
+
+  <rect y="78" width="680" height="1.5" fill="url(#line)" class="glow"/>
+  <rect y="78" width="120" height="1.5" fill="url(#pulse)" class="sweep"/>
+
+  <circle cx="340" cy="79" r="4" fill="#60a5fa" class="glow"/>
+  <circle cx="340" cy="79" r="2" fill="#ffffff"/>
+  <circle cx="200" cy="79" r="2" fill="#60a5fa" opacity="0.6" class="glow"/>
+  <circle cx="480" cy="79" r="2" fill="#60a5fa" opacity="0.6" class="glow"/>
+</svg>
