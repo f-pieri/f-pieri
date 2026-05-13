@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Franco%20Pieri&fontSize=60&fontAlignY=55&fontColor=ffffff" alt="Header Banner" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Creative+Technologist;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img width="100%" src="./assets/header.gif" alt="Header" />
 </div>
 
 <p align="center">
