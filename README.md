@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/zha0090?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+<a href="https://github.com/f-pieri?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
-  <a href="https://github.com/zha0090">
+  <a href="https://github.com/f-pieri">
     <img src="https://komarev.com/ghpvc/?username=f-pieri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
@@ -71,11 +71,11 @@
 ## GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f-pieri/f-pieri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f-pieri/f-pieri/output/github-contribution-grid-snake.svg">
   <img
   alt="GitHub contribution snake"
-  src="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake.svg"
+  src="https://raw.githubusercontent.com/f-pieri/f-pieri/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
