@@ -93,9 +93,5 @@
 </p>
 
 <p align="center">
-  <img
-    width="98%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"
-    alt="Footer"
-  />
+  <img width="98%" src="./assets/footer.svg" alt="Footer" />
 </p>
