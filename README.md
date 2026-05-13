@@ -84,11 +84,12 @@
 
 ---
 
-## Connect With Me
-
 <p align="center">
-  <a href="https://github.com/zha0090">
-    <img src="https://img.shields.io/badge/GitHub-zha0090-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/f-pieri/f-pieri">
+    <img src="https://img.shields.io/badge/GitHub-f--pieri-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://francopieri.digital/">
+    <img src="https://img.shields.io/badge/Website-francopieri.digital-0ea5e9?style=for-the-badge&logoColor=white" alt="Personal Website" />
   </a>
 </p>
 
