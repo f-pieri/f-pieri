@@ -29,68 +29,60 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,angular,redux,tailwind,materialui,threejs&theme=dark" alt="Frontend skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,java,cpp,python,ts&theme=dark" alt="Core skills" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,go,java,php,graphql,mongodb,mysql,postgres,sqlite&theme=dark" alt="Backend and database skills" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode,rust,solidity&theme=dark" alt="Tools and other skills" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="AI/ML skills" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
-      <br />React
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br />Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br />Next.js
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+      <br />GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript" />
-      <br />TypeScript
+      <img src="https://www.gerritcodereview.com/images/gerrit_icon.svg" width="45" height="45" alt="Gerrit" />
+      <br />Gerrit
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
       <br />Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" alt="Django" />
-      <br />Django
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript" />
+      <br />TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" />
-      <br />Docker
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
+      <br />Java
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
-      <br />AWS
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++" />
+      <br />C++
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br />PostgreSQL
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
+      <br />PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br />MongoDB
+      <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel" />
+      <br />Excel
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-      <br />GraphQL
+      <img src="https://img.icons8.com/color/96/sharepoint-2019--v1.png" width="45" height="45" alt="SharePoint" />
+      <br />SharePoint
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br />Go
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br />Rust
+      <img src="https://img.icons8.com/color/96/microsoft-365.png" width="45" height="45" alt="MS365" />
+      <br />MS 365
     </td>
   </tr>
 </table>
