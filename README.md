@@ -93,5 +93,5 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="./assets/footer.svg" alt="Footer" />
+  <img width="98%" src="./assets/footer.gif" alt="Footer" />
 </p>
