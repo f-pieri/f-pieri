@@ -28,10 +28,6 @@
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,java,cpp,python,ts,pytorch&theme=dark" alt="Core skills" />
-</p>
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -41,10 +37,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
       <br />GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=black&labelColor=EEEEEE" height="45" alt="Gerrit" />
-      <br />Gerrit
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
