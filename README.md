@@ -14,11 +14,9 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/f-pieri?tab=repositories">
+  <img src="https://komarev.com/ghpvc/?username=f-pieri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/f-pieri?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
-  </a>
-  <a href="https://github.com/f-pieri">
-    <img src="https://komarev.com/ghpvc/?username=f-pieri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
 
