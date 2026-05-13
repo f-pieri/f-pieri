@@ -88,6 +88,10 @@
   <a href="https://francopieri.digital/">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/f-pieri/f-pieri">
+    <img src="https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
