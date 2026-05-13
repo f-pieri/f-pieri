@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://github.com/f-pieri/f-pieri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://francopieri.digital/">
