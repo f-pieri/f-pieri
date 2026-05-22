@@ -1,6 +1,6 @@
 <div align="center">
   <img width="100%" src="./assets/header1.gif" alt="Header" />
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=28&duration=3000&pause=1000&color=60a5fa&center=true&vCenter=true&width=500&lines=Creative+Technologist;Machine+Learning+Enthusiast;Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=28&duration=3000&pause=1000&color=60a5fa&center=true&vCenter=true&width=500&lines=Creative+Technologist;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=f-pieri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
