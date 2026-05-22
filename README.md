@@ -1,20 +1,14 @@
 <div align="center">
   <img width="100%" src="./assets/header1.gif" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=28&duration=3000&pause=1000&color=60a5fa&center=true&vCenter=true&width=500&lines=Creative+Technologist;Machine+Learning+Enthusiast;Always+Building" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&duration=3000&pause=1000&color=60a5fa&center=true&vCenter=true&width=500&lines=Creative+Technologist;Machine+Learning+Enthusiast;Always+Building" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=f-pieri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/f-pieri?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
 </p>
-
 <h2>Tech Stack</h2>
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -59,14 +53,10 @@
 ---
 
 <h3>My Contributions</h3>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f-pieri/f-pieri/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f-pieri/f-pieri/output/github-contribution-grid-snake.svg">
-  <img
-  alt="GitHub contribution snake"
-  src="https://raw.githubusercontent.com/f-pieri/f-pieri/output/github-contribution-grid-snake.svg"
-  />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/f-pieri/f-pieri/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
@@ -76,7 +66,6 @@
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
 <p align="center">
   <img width="98%" src="./assets/footer.gif" alt="Footer" />
 </p>
