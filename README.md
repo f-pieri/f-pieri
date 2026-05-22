@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=60a5fa&center=true&vCenter=true&width=500&lines=Creative+Technologist;Machine+Learning+Enthusiast;Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&duration=3000&pause=1000&color=60a5fa&center=true&vCenter=true&width=500&lines=Creative+Technologist;Machine+Learning+Enthusiast;Always+Building" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,9 +12,6 @@
     <img src="https://img.shields.io/badge/Repositories-4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
 </p>
-
-
----
 
 <h2>Tech Stack</h2>
 
