@@ -24,10 +24,6 @@
       <br />Gerrit
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++" />
-      <br />C++
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
       <br />PyTorch
     </td>
