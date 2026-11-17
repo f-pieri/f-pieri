@@ -16,20 +16,28 @@
       <br />Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-      <br />GitHub
-    </td>
-    <td align="center" width="96">
       <img src="./assets/gerrit.png" width="45" height="45" alt="Gerrit" />
       <br />Gerrit
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
-      <br />PyTorch
-    </td>
-    <td align="center" width="96">
       <img src="./assets/matlab.svg" width="45" height="45" alt="MATLAB" />
       <br />MATLAB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+      <br />HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+      <br />CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="Svelte" />
+      <br />Svelte
     </td>
   </tr>
 </table>
